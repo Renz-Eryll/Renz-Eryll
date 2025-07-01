@@ -5,13 +5,13 @@
 ---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank"> 
+  <a href="www.linkedin.com/in/renz-eryll-ramelo" target="_blank"> 
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="https://facebook.com/your-facebook" target="_blank">
+  <a href="[https://facebook.com/your-facebook](https://www.facebook.com/renzeryll.ramelo)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" />
   </a>
-  <a href="mailto:renzeryll.dev@gmail.com" target="_blank"> 
+  <a href="mailto:renzeryll09@gmail.com" target="_blank"> 
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
 </div>
@@ -21,7 +21,9 @@
 <div align="center">
   <h1>I'm Renz <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"> </h1>
   <p>A passionate Web Developer from the Philippines 🇵🇭</p>
+  <p>🎯 Open for work and freelance opportunities!</p>
 </div>
+
 
 ---
 
@@ -29,8 +31,7 @@
 
 - 🔭 I’m currently developing **MedCare - A healthcare management system**
 - 🌱 I’m deep diving into **React.js, Next.js, TypeScript, and backend technologies**
-- 🚀 Explore my projects at [**renz-portfolio-psi.vercel.app**](https://renz-portfolio-psi.vercel.app)
-- 📫 Reach me at **renzeryll.dev@gmail.com**
+- 🚀 View my projects [**here**](https://renz-portfolio-psi.vercel.app)
 
 ---
 
