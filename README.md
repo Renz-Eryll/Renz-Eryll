@@ -20,7 +20,7 @@
 
 <div align="center">
   <h1>I'm Renz <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"> </h1>
-  <p>A passionate Web Developer from the Philippines 🇵🇭</p>
+  <p>A Web Developer from the Philippines 🇵🇭</p>
   <p>🎯 Open for work and freelance opportunities!</p>
 </div>
 
