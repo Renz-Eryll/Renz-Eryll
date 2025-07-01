@@ -62,6 +62,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="44" alt="typescript logo"  />
 </div>
+
 ---
 
 ## 📊 GitHub Stats
