@@ -29,8 +29,6 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently developing **MedCare - A healthcare management system**
-- 🌱 I’m deep diving into **React.js, Next.js, TypeScript, and backend technologies**
 - 🚀 View my projects [**here**](https://renz-portfolio-psi.vercel.app)
 
 ---
