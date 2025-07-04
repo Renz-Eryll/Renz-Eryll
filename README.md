@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="100" src="https://cdna.artstation.com/p/assets/images/images/053/755/244/large/nazib-hamdan-ngoding.jpg?1662976950" alt="profile banner" />
+  <img src="https://cdna.artstation.com/p/assets/images/images/053/755/244/large/nazib-hamdan-ngoding.jpg?1662976950" alt="profile banner" style="width:600px; max-width:100%; height:auto;" />
 </div>
 
 ---
@@ -38,30 +38,31 @@
 ## 🛠 Languages & Tools
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/appwrite/F02E65" height="30" alt="appwrite logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="30" alt="bootstrap logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="30" alt="figma logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="30" alt="firebase logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="30" alt="typescript logo" />
+  <img src="https://cdn.simpleicons.org/appwrite/F02E65" alt="Appwrite" style="height:30px; width:30px;" />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" alt="Bootstrap" style="height:30px; width:30px;" />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" style="height:30px; width:30px;" />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase" style="height:30px; width:30px;" />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" style="height:30px; width:30px;" />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" style="height:30px; width:30px;" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" style="height:30px; width:30px;" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" style="height:30px; width:30px;" />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" style="height:30px; width:30px;" />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" style="height:30px; width:30px;" />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" style="height:30px; width:30px;" />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" style="height:30px; width:30px;" />
 </div>
+
 
 ---
 
