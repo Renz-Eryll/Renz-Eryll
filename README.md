@@ -29,7 +29,10 @@
 
 ## 👨‍💻 About Me
 
+- 🎓 I'm an aspiring web developer passionate about building responsive and efficient web applications.
 - 🚀 View my projects [**here**](https://renz-portfolio-psi.vercel.app)
+- 🌱 Currently exploring more about backend technologies.
+- 🐝 Fun fact: I built an IoT-enabled bee hive monitoring system for my capstone project!
 
 ---
 
