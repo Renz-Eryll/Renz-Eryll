@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://cdna.artstation.com/p/assets/images/images/053/755/244/large/nazib-hamdan-ngoding.jpg?1662976950" />
+  <img height="100" src="https://cdna.artstation.com/p/assets/images/images/053/755/244/large/nazib-hamdan-ngoding.jpg?1662976950" />
 </div>
 
 ---
