@@ -29,9 +29,10 @@
 ## 👨‍💻 About Me
 
 - 🎓 I'm an aspiring web developer passionate about building responsive and efficient web applications.
-- 🚀 View my projects [**here**](https://renz-portfolio-psi.vercel.app)
 - 🌱 Currently exploring more about backend technologies.
 - 🐝 Highlight: We developed an IoT-enabled stingless bee hive monitoring system for our capstone project.
+- 🚀 View my projects [**here**](https://renz-portfolio-psi.vercel.app)
+
 
 ---
 
@@ -41,8 +42,8 @@
   <img src="https://cdn.simpleicons.org/appwrite/F02E65" alt="Appwrite" style="height:35px; width:35px;" />
   <img width="10"  />
   <img src="https://cdn.simpleicons.org/bootstrap/7952B3" alt="Bootstrap" style="height:35px; width:35px;" />
-  <img width="10"  />
-  <img src="https://cdn.simpleicons.org/express/000000" style="height:35px; width:35px;" alt="express logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=express"  style="height:35px; width:35px;" alt="express logo"  />
   <img width="10" />
   <img src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" style="height:35px; width:35px;" />
   <img width="10"  />
