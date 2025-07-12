@@ -38,35 +38,33 @@
 ## 🛠 Languages & Tools
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/appwrite/F02E65" alt="Appwrite" style="height:30px; width:30px;" />
+  <img src="https://cdn.simpleicons.org/appwrite/F02E65" alt="Appwrite" style="height:35px; width:35px;" />
   <img width="10"  />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" alt="Bootstrap" style="height:30px; width:30px;" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" alt="Bootstrap" style="height:35px; width:35px;" />
   <img width="10"  />
-  <img src="https://cdn.simpleicons.org/express/000000" style="height:30px; width:30px;" alt="express logo"  />
+  <img src="https://cdn.simpleicons.org/express/000000" style="height:35px; width:35px;" alt="express logo"  />
   <img width="10" />
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" style="height:30px; width:30px;" />
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" style="height:35px; width:35px;" />
   <img width="10"  />
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase" style="height:30px; width:30px;" />
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase" style="height:35px; width:35px;" />
   <img width="10"  />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" style="height:30px; width:30px;" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" style="height:35px; width:35px;" />
   <img width="10"  />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" style="height:30px; width:30px;" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" style="height:35px; width:35px;"/>
   <img width="10"  />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" style="height:30px; width:30px;" alt="mongodb logo"  />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" style="height:35px; width:35px;"alt="mongodb logo"  />
   <img width="10"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" style="height:30px; width:30px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" style="height:35px; width:35px;" />
   <img width="10"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" style="height:30px; width:30px;" />
-  <img width="10"  />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" style="height:30px; width:30px;" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" style="height:35px; width:35px;" />
   <img width="10" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" style="height:30px; width:30px;" alt="postman logo"  />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" style="height:35px; width:35px;" alt="postman logo"  />
   <img width="10"  />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" style="height:30px; width:30px;" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" style="height:35px; width:35px;" />
   <img width="10"  />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" style="height:30px; width:30px;" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" style="height:35px; width:35px;" />
   <img width="10"  />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" style="height:30px; width:30px;" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" style="height:35px; width:35px;" />
 </div>
 
 
