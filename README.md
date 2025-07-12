@@ -36,7 +36,7 @@
 
 ---
 
-## 🛠 Languages & Tools
+## 🔧 Technologies I Use
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/appwrite/F02E65" alt="Appwrite" style="height:35px; width:35px;" />
@@ -48,8 +48,6 @@
   <img src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" style="height:35px; width:35px;" />
   <img width="10"  />
   <img src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase" style="height:35px; width:35px;" />
-  <img width="10"  />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" style="height:35px; width:35px;" />
   <img width="10"  />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" style="height:35px; width:35px;"/>
   <img width="10"  />
@@ -73,17 +71,11 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=renz-eryll&show_icons=true&theme=radical" alt="Renz Eryll's GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renz-eryll&layout=compact&theme=radical" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+  <img src="https://github-readme-stats.vercel.app/api?username=renz-eryll&show_icons=true&theme=radical" alt="Renz Eryll's GitHub Stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renz-eryll&layout=compact&theme=radical" alt="Top Languages" />
 
 </div>
+
