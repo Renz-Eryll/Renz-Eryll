@@ -71,11 +71,11 @@
 
 ## 📊 GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=renz-eryll&show_icons=true&theme=radical" alt="Renz Eryll's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=renz-eryll&show_icons=true&theme=radical" alt="Renz Eryll's GitHub Stats" style="height: 180px; margin-right: 10px; vertical-align: middle;" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renz-eryll&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renz-eryll&layout=compact&theme=radical" alt="Top Languages" style="height: 180px; vertical-align: middle;" />
 
 </div>
 
