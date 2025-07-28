@@ -56,8 +56,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" style="height:35px; width:35px;" />
   <img width="10"  />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" style="height:35px; width:35px;" />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" style="height:35px; width:35px;" alt="postman logo"  />
   <img width="10"  />
   <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" style="height:35px; width:35px;" />
   <img width="10"  />
