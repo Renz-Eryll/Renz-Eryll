@@ -29,7 +29,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 I'm an aspiring web developer passionate about building responsive and efficient web applications.
-- 🌱 Currently exploring more about backend technologies.
+- 🌱 Currently exploring more about backend technologies, specifically Prisma and PostgreSQL.
 - 🐝 Highlight: We developed an IoT-enabled stingless bee hive monitoring system for our capstone project.
 - 🚀 View my projects [**here**](https://renz-portfolio-psi.vercel.app)
 
