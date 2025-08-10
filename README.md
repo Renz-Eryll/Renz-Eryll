@@ -70,9 +70,26 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=renz-eryll&show_icons=true&theme=radical" alt="Renz Eryll's GitHub Stats" style="height: 180px; margin-right: 10px; vertical-align: middle;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renz-eryll&layout=compact&theme=radical" alt="Top Languages" style="height: 180px; vertical-align: middle;" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=renz-eryll&show_icons=true&theme=radical" 
+    alt="Renz Eryll's GitHub Stats" 
+    height="180"
+    style="margin-right: 20px;" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=renz-eryll&layout=compact&theme=radical" 
+    alt="Top Languages" 
+    height="180" 
+  />
 </div>
+
+<br>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=renz-eryll&theme=radical" alt="GitHub Streak Stats" style="margin-top: 10px;" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=renz-eryll&theme=radical" 
+    alt="GitHub Streak Stats" 
+    height="180"
+  />
 </div>
+
