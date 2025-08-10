@@ -74,18 +74,16 @@
     src="https://github-readme-stats.vercel.app/api?username=renz-eryll&show_icons=true&theme=radical" 
     alt="Renz Eryll's GitHub Stats" 
     height="200"
-    style="margin-right: 40px;" 
+    style="margin-bottom: 40px;" 
   />
+  
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=renz-eryll&layout=compact&theme=radical" 
     alt="Top Languages" 
-    height="200" 
+    height="200"
+    style="margin-bottom: 40px;" 
   />
-</div>
-
-<br>
-
-<div align="center">
+  
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=renz-eryll&theme=radical" 
     alt="GitHub Streak Stats" 
