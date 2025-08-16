@@ -31,7 +31,7 @@
 - 🎓 I'm an aspiring web developer passionate about building responsive and efficient web applications.
 - 🌱 Currently exploring more about backend technologies, specifically Prisma and PostgreSQL.
 - 🐝 Highlight: We developed an IoT-enabled stingless bee hive monitoring system for our capstone project.
-- 🚀 View my projects [**here**](https://renz-portfolio-psi.vercel.app)
+- 🚀 View my projects [**here!**](https://renz-portfolio-psi.vercel.app)
 
 
 ---
@@ -76,20 +76,16 @@
     height="180"
     style="margin-right: 40px;" 
   />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=renz-eryll&layout=compact&theme=radical" 
-    alt="Top Languages" 
-    height="180" 
-  />
+
 </div>
 
 <br>
 
 <div align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=renz-eryll&theme=radical" 
-    alt="GitHub Streak Stats" 
-    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=renz-eryll&layout=compact&theme=radical" 
+    alt="Top Languages" 
+    height="180" 
   />
 </div>
 
