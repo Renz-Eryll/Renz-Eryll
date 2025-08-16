@@ -71,21 +71,19 @@
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=renz-eryll&show_icons=true&theme=radical" 
-    alt="Renz Eryll's GitHub Stats" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=renz-eryll&layout=compact&theme=radical" 
+    alt="Top Languages" 
     height="180"
-    style="margin-right: 40px;" 
   />
-
 </div>
 
 <br>
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=renz-eryll&layout=compact&theme=radical" 
-    alt="Top Languages" 
-    height="180" 
+    src="https://github-readme-stats.vercel.app/api?username=renz-eryll&show_icons=true&theme=radical" 
+    alt="Renz Eryll's GitHub Stats" 
+    height="180"
   />
 </div>
 
