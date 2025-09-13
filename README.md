@@ -85,7 +85,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Renz-Eryll&theme=github_dark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Renz-Eryll&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -93,4 +93,16 @@
 <div align="center">
   <p>⭐ Enjoying my work? Star my repositories to show support!</p>
   <p>📫 Reach me at: <a href="mailto:renzeryll09@gmail.com">renzeryll09@gmail.com</a></p>
+</div>
+
+---
+
+## ✨ Let's Build Something Amazing
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="50" height="50" />
+  <p><em>Passionate about coding and collaboration? Let's connect and create innovative projects together!</em></p>
+  <a href="https://github.com/Renz-Eryll?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="View My Projects" height="25" />
+  </a>
 </div>
