@@ -85,7 +85,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-![](https://github-profile-trophy.vercel.app/?username=Renz-Eryll&theme=nord&no-frame=true&no-bg=true&margin-w=4)
+  <img src="https://github-profile-trophy.vercel.app/?username=Renz-Eryll&theme=github_dark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
