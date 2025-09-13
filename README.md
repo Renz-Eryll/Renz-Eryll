@@ -1,27 +1,8 @@
 <div align="center">
-  <img src="https://cdna.artstation.com/p/assets/images/images/053/755/244/large/nazib-hamdan-ngoding.jpg?1662976950" alt="Profile Banner" style="width:100%; max-width:800px; height:auto; border-radius:10px;" />
+  <img src="https://cdna.artstation.com/p/assets/images/images/053/755/244/large/nazib-hamdan-ngoding.jpg?1662976950" alt="profile banner" style="width:200px; max-width:100%; height:auto;" />
 </div>
 
 ---
-
-<div align="center">
-  <h1>👋 Hi, I'm Renz Eryll</h1>
-  <p><em>Web Developer from the Philippines 🇵🇭 | Building responsive and innovative web solutions</em></p>
-  <p>🎯 Open to work and freelance opportunities!</p>
-</div>
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 Aspiring web developer with a passion for crafting efficient, user-friendly web applications.
-- 🌱 Currently diving deeper into backend technologies like **Prisma** and **PostgreSQL**.
-- 🐝 Highlight: Developed an IoT-enabled stingless bee hive monitoring system for my capstone project.
-- 🚀 Explore my projects on my [portfolio](https://renz-portfolio-psi.vercel.app) or check out my [GitHub repositories](https://github.com/Renz-Eryll)!
-
----
-
-## 🌐 Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/renz-eryll-ramelo" target="_blank">
@@ -40,29 +21,67 @@
 
 ---
 
+<div align="center">
+  <h1>I'm Renz Eryll <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" alt="wave" /></h1>
+  <p>A Web Developer from the Philippines 🇵🇭</p>
+  <p>🎯 Open for work and freelance opportunities!</p>
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Aspiring web developer with a passion for crafting efficient, user-friendly web applications.
+- 🌱 Currently diving deeper into backend technologies like **Prisma** and **PostgreSQL**.
+- 🐝 Highlight: Developed an IoT-enabled stingless bee hive monitoring system for my capstone project.
+- 🚀 Explore my projects on my [portfolio](https://renz-portfolio-psi.vercel.app) or check out my [GitHub repositories](https://github.com/Renz-Eryll)!
+
+---
+
 ## 💻 Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
-  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white" alt="Appwrite" />
-  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" style="height:35px; width:35px;" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" style="height:35px; width:35px;" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" style="height:35px; width:35px;" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase" style="height:35px; width:35px;" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/vercel/000000" alt="Vercel" style="height:35px; width:35px;" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" alt="Bootstrap" style="height:35px; width:35px;" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/chartdotjs/F5788D" alt="Chart.js" style="height:35px; width:35px;" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=express" alt="Express.js" style="height:35px; width:35px;" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" style="height:35px; width:35px;" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" style="height:35px; width:35px;" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" style="height:35px; width:35px;" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React Native" style="height:35px; width:35px;" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" style="height:35px; width:35px;" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/appwrite/F02E65" alt="Appwrite" style="height:35px; width:35px;" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" style="height:35px; width:35px;" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/postgresql/316192" alt="Postgres" style="height:35px; width:35px;" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/prisma/2D3748" alt="Prisma" style="height:35px; width:35px;" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" alt="Canva" style="height:35px; width:35px;" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" style="height:35px; width:35px;" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/git/F05033" alt="Git" style="height:35px; width:35px;" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/github/121011" alt="GitHub" style="height:35px; width:35px;" />
 </div>
 
 ---
@@ -81,22 +100,6 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Renz-Eryll&theme=dark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
-
-## ✍️ Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="Random Dev Quote" />
-</div>
-
----
-
-## 👀 Visitors
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Renz-Eryll&icon=1&color=12" alt="Visitor Count" />
 </div>
 
 ---
