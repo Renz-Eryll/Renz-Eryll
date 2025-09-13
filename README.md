@@ -69,15 +69,16 @@
 
 ## 📊 GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
-  <img 
+<div align="center">
+ <img 
     src="https://github-readme-stats.vercel.app/api?username=renz-eryll&show_icons=true&theme=radical" 
     alt="Renz Eryll's GitHub Stats" 
     height="200"
   />
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=renz-eryll&layout=compact&theme=radical" 
     alt="Top Languages" 
     height="200"
-  />
+  /> 
 </div>
