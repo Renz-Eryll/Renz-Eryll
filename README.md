@@ -77,7 +77,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Renz-Eryll&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false" alt="Renz Eryll's GitHub Stats" height="200" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renz-Eryll&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="200" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Renz-Eryll&theme=github_dark&hide_border=true" alt="GitHub Streak" height="200" />
 </div>
 
 ---
