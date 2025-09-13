@@ -41,47 +41,33 @@
 ## 💻 Tech Stack
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" style="height:35px; width:35px;" />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" style="height:35px; width:35px;" />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" style="height:35px; width:35px;" />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase" style="height:35px; width:35px;" />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/vercel/000000" alt="Vercel" style="height:35px; width:35px;" />
+  <img src="https://cdn.simpleicons.org/appwrite/F02E65" alt="Appwrite" style="height:35px; width:35px;" />
   <img width="10" />
   <img src="https://cdn.simpleicons.org/bootstrap/7952B3" alt="Bootstrap" style="height:35px; width:35px;" />
   <img width="10" />
-  <img src="https://cdn.simpleicons.org/chartdotjs/F5788D" alt="Chart.js" style="height:35px; width:35px;" />
-  <img width="10" />
   <img src="https://skillicons.dev/icons?i=express" alt="Express.js" style="height:35px; width:35px;" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" style="height:35px; width:35px;" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" style="height:35px; width:35px;" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" style="height:35px; width:35px;" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" style="height:35px; width:35px;" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" style="height:35px; width:35px;" />
   <img width="10" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" style="height:35px; width:35px;" />
   <img width="10" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" style="height:35px; width:35px;" />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React Native" style="height:35px; width:35px;" />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" style="height:35px; width:35px;" />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/appwrite/F02E65" alt="Appwrite" style="height:35px; width:35px;" />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" style="height:35px; width:35px;" />
-  <img width="10" />
   <img src="https://cdn.simpleicons.org/postgresql/316192" alt="Postgres" style="height:35px; width:35px;" />
   <img width="10" />
   <img src="https://cdn.simpleicons.org/prisma/2D3748" alt="Prisma" style="height:35px; width:35px;" />
   <img width="10" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" alt="Canva" style="height:35px; width:35px;" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" style="height:35px; width:35px;" />
   <img width="10" />
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" style="height:35px; width:35px;" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" style="height:35px; width:35px;" />
   <img width="10" />
-  <img src="https://cdn.simpleicons.org/git/F05033" alt="Git" style="height:35px; width:35px;" />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/github/121011" alt="GitHub" style="height:35px; width:35px;" />
+  <img src="https://cdn.simpleicons.org/vercel/000000" alt="Vercel" style="height:35px; width:35px;" />
 </div>
 
 ---
@@ -99,7 +85,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Renz-Eryll&theme=dark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+![](https://github-profile-trophy.vercel.app/?username=Renz-Eryll&theme=nord&no-frame=true&no-bg=true&margin-w=4)
 </div>
 
 ---
