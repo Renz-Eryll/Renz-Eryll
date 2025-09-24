@@ -34,7 +34,7 @@
 - 🎓 Aspiring web developer with a passion for crafting efficient, user-friendly web applications.
 - 🌱 Currently diving deeper into backend technologies like **Prisma** and **PostgreSQL**.
 - 🐝 Highlight: Developed an IoT-enabled stingless bee hive monitoring system for my capstone project.
-- 🚀 Explore my projects on my [portfolio](https://renz-portfolio-psi.vercel.app) or check out my [GitHub repositories](https://github.com/Renz-Eryll)!
+- 🚀 Explore my projects on my [portfolio](https://renz-portfolio-psi.vercel.app) or check out my [GitHub repositories](https://github.com/Renz-Eryll?tab=repositories)!
 
 ---
 
