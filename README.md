@@ -40,44 +40,80 @@
 
 ## 💻 Tech Stack
 
-### 🧩 Frameworks, Libraries & Tools  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white)  
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)  
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)  
-![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)  
-![Context API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)  
+### 🎨 Frontend  
+<div align="center">
+  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" height="35" width="35" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" height="35" width="35" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" height="35" width="35" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/typescript/007ACC" alt="TypeScript" height="35" width="35" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" height="35" width="35" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" height="35" width="35" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" alt="Bootstrap" height="35" width="35" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" height="35" width="35" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/sass/CC6699" alt="SASS" height="35" width="35" />
+</div>
 
-### 🗄️ Databases & Backend  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)  
+---
 
-### ☁️ Hosting & Cloud  
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)  
-![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white)  
+### ⚙️ Backend & API  
+<div align="center">
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" height="35" width="35" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=express" alt="Express.js" height="35" width="35" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/prisma/2D3748" alt="Prisma" height="35" width="35" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/jwt/000000" alt="JWT" height="35" width="35" />
+</div>
 
-### 🧠 Other Tools  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)  
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)  
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+---
 
+### 🗄️ Databases  
+<div align="center">
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" height="35" width="35" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" height="35" width="35" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/postgresql/316192" alt="PostgreSQL" height="35" width="35" />
+</div>
+
+---
+
+### ☁️ Deployment & Cloud  
+<div align="center">
+  <img src="https://cdn.simpleicons.org/vercel/000000" alt="Vercel" height="35" width="35" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase" height="35" width="35" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/appwrite/F02E65" alt="Appwrite" height="35" width="35" />
+</div>
+
+---
+
+### 🧠 Tools & Design  
+<div align="center">
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" height="35" width="35" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" alt="Canva" height="35" width="35" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/git/F05033" alt="Git" height="35" width="35" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" height="35" width="35" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" alt="Postman" height="35" width="35" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="Chart.js" height="35" width="35" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/expo/000020" alt="Expo" height="35" width="35" />
+</div>
 
 ---
 
