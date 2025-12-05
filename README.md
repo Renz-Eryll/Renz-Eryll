@@ -93,35 +93,136 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🏆 Featured Projects
 
 <div align="center">
 
-### Frontend
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+### 🌟 Highlighted Builds
 
-### Styling
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
+</div>
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white)
+<table>
+<tr>
+<td width="50%">
 
-### Tools & Others
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white)
+<h3 align="center">🎨 Postagram</h3>
+
+<div align="center">
+  
+[![Demo](https://img.shields.io/badge/🔗_Live_Demo-a259ff?style=for-the-badge)](https://postagram-app.vercel.app)
+[![Code](https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Renz-Eryll/Postagram)
+
+<p><strong>Social Media Platform</strong> • Full authentication & real-time updates</p>
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma)
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square)
+
+</div>
+
+</td>
+<td width="50%">
+
+<h3 align="center">📁 Sync It</h3>
+
+<div align="center">
+  
+[![Demo](https://img.shields.io/badge/🔗_Live_Demo-a259ff?style=for-the-badge)](https://sync-it-project.vercel.app)
+[![Code](https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Renz-Eryll/SyncIt)
+
+<p><strong>File Storage & Sharing</strong> • Seamless file management</p>
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
+![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=flat-square&logo=appwrite)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css)
+
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<h3 align="center">📊 SubTrack</h3>
+
+<div align="center">
+  
+[![Code](https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Renz-Eryll/SubTrack)
+
+<p><strong>Subscription Manager</strong> • User & transaction management</p>
+
+![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
+![JWT](https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens)
+
+</div>
+
+</td>
+<td width="50%">
+
+<h3 align="center">🤖 Resumind</h3>
+
+<div align="center">
+  
+[![Demo](https://img.shields.io/badge/🔗_Live_Demo-a259ff?style=for-the-badge)](https://resumind-app.vercel.app)
+[![Code](https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Renz-Eryll/Resumind)
+
+<p><strong>AI Resume Analyzer</strong> • Job matching & analysis</p>
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Puter.js](https://img.shields.io/badge/Puter.js-FF6B6B?style=flat-square)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css)
+
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<h3 align="center">🎓 CourseBoard</h3>
+
+<div align="center">
+  
+[![Demo](https://img.shields.io/badge/🔗_Live_Demo-a259ff?style=for-the-badge)](https://courseboard.vercel.app)
+[![Code](https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Renz-Eryll/CourseBoard)
+
+<p><strong>Admin Dashboard</strong> • Course & subscription management</p>
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
+![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000?style=flat-square)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css)
+
+</div>
+
+</td>
+<td width="50%">
+
+<h3 align="center">🎮 Memory Game</h3>
+
+<div align="center">
+  
+[![Demo](https://img.shields.io/badge/🔗_Live_Demo-a259ff?style=for-the-badge)](https://memory-concentration-game.vercel.app)
+[![Code](https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Renz-Eryll/Memory_Game)
+
+<p><strong>Interactive Game</strong> • Challenge your memory skills</p>
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![View All Projects](https://img.shields.io/badge/View_All_Projects_→-a259ff?style=for-the-badge)](https://github.com/Renz-Eryll?tab=repositories)
 
 </div>
 
