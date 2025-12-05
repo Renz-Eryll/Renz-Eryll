@@ -2,8 +2,6 @@
   <img src="https://cdna.artstation.com/p/assets/images/images/053/755/244/large/nazib-hamdan-ngoding.jpg?1662976950" alt="profile banner" style="width:200px; max-width:100%; height:auto;" />
 </div>
 
----
-
 <div align="center">
 
 # 👋 Hey, I'm Renz Eryll
@@ -95,17 +93,35 @@
 
 ---
 
-## 🏆 Featured Projects
+## 🛠️ Tech Stack
 
 <div align="center">
 
-| Project | Description | Tech Stack | Links |
-|---------|-------------|-----------|-------|
-| **Postagram** | Social media web app with authentication & real-time updates | Next.js, PostgreSQL, Prisma, Clerk | [🔗 Demo](https://postagram-app.vercel.app) • [💻 Code](https://github.com/Renz-Eryll/Postagram) |
-| **Sync It** | File storage & sharing platform | Next.js, Appwrite, Tailwind | [🔗 Demo](https://sync-it-project.vercel.app) • [💻 Code](https://github.com/Renz-Eryll/SyncIt) |
-| **SubTrack** | Subscription management system | Express.js, MongoDB, JWT | [💻 Code](https://github.com/Renz-Eryll/SubTrack) |
-| **Resumind** | AI-powered resume analyzer | React, Puter.js, Tailwind | [🔗 Demo](https://resumind-app.vercel.app) • [💻 Code](https://github.com/Renz-Eryll/Resumind) |
-| **CourseBoard** | Admin dashboard for course management | Next.js, Shadcn UI | [🔗 Demo](https://courseboard.vercel.app) • [💻 Code](https://github.com/Renz-Eryll/CourseBoard) |
+### Frontend
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### Styling
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white)
+
+### Tools & Others
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white)
 
 </div>
 
